@@ -1,0 +1,6 @@
+Hi
+
+I have created a Console application which takes a File path as an input parameter from which we want to process the data.I have used a nuget package of System.IO.Abstractions so as to have a ability to Mock the File System in my unit test cases. I have written Unit test cases by using NUnit and Moq frameworks. All the third party libraries (System.IO.Abstractions, NUnit and Moq) are refrenced via Nuget packages which is also included in the solution itself.
+
+Thanks
+Manuj
